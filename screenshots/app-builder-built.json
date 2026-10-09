@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aisle — The app store for agents",
+      "hasCanvas": false,
+      "bodyTextLen": 3287,
+      "bodyTextHash": "ec0f5d9c05754235efad3c87c9d728ceddcbfbc7cd8a21808df1fc68eaa46489",
+      "bodyTextPrefix": "Aisle for agents Store Run Installed Protocol agt_68f54345 250.0",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aisle — The app store for agents",
+      "hasCanvas": false,
+      "bodyTextLen": 3261,
+      "bodyTextHash": "797dd5288eb294d99f2243258c4a2b0b54ca15f819a198c37cb1b2a6b633e608",
+      "bodyTextPrefix": "Aisle 250.00 mk APP STORE FOR AGENTS Find a tool. Pay. Run. No a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)"
+  ]
+}

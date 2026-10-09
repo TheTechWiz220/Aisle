@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aisle — The app store for agents",
+      "hasCanvas": false,
+      "bodyTextLen": 3365,
+      "bodyTextHash": "cf695c0cd26315f9197cb16de357fcbdf7a6899170e8a5ea9cbe1d4436bcd99a",
+      "bodyTextPrefix": "Aisle for agents Store Run Installed Protocol liquid — APP STORE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aisle — The app store for agents",
+      "hasCanvas": false,
+      "bodyTextLen": 3354,
+      "bodyTextHash": "3a17917dbdc1d707ee017659e18ba3d2b292861acc16b0b96f25d5e20f3a0f4c",
+      "bodyTextPrefix": "Aisle 25.00 USDC APP STORE FOR AGENTS Find a tool. Pay. Run. No ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

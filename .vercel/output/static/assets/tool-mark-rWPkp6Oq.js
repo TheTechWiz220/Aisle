@@ -1,0 +1,1 @@
+import{s as e}from"./link-S7LRuTfm.js";import{w as t}from"./store-B0J_o7WD.js";var n=e();function r({mark:e,className:r}){return(0,n.jsx)(`div`,{className:t(`flex size-12 items-center justify-center rounded-md bg-surface-2 font-serif text-lg italic text-fg shadow-[0_0_0_1px_var(--color-border)]`,r),"aria-hidden":`true`,children:e})}export{r as t};

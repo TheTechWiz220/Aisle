@@ -1,0 +1,1 @@
+import{s as e,t}from"./link-S7LRuTfm.js";var n=e(),r=()=>(0,n.jsxs)(`div`,{className:`py-16 text-center`,children:[(0,n.jsx)(`p`,{className:`font-serif text-2xl italic`,children:`No such tool.`}),(0,n.jsx)(t,{to:`/`,className:`mt-4 inline-block text-sm text-muted hover:text-fg`,children:`Back to the store`})]});export{r as notFoundComponent};
